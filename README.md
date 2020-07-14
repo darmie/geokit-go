@@ -1,3 +1,5 @@
+# geokit-go
+
 An assortment of geolocation related tools, all packaged in one easy to use kit. A direct port from http://github.com/MichaelSolati/geokit
 
 ## Methods
