@@ -1,4 +1,4 @@
-An assortment of geolocation related tools, all packaged in one easy to use kit. A direct port from [MichaelSolati/geokit]("http//github.com/MichaelSolati/geokit")
+An assortment of geolocation related tools, all packaged in one easy to use kit. A direct port from [MichaelSolati/geokit]("http://github.com/MichaelSolati/geokit")
 
 ## Methods
 
